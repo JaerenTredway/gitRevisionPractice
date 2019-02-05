@@ -1,4 +1,5 @@
 # gitRevisionPractice
 A repo to try out revision, rebase, reset, etc
 
-revision 1
+this is revision 1
+this is revision 2
